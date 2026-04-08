@@ -62,4 +62,4 @@
 
 ---
 
-![domain-modelling-01.png](images\domain-modelling-01.png)
+![domain-modelling-01.png](./images/domain-modelling-01.png)
