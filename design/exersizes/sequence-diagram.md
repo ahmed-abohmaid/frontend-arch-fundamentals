@@ -10,4 +10,4 @@ https://www.tldraw.com/f/pXcJN8-XEcmIh55Qse9tY?d=v-288.277.2652.1595.page
 
 ---
 
-![sequence-diagram.png](images\sequence-diagram.png)
+![sequence-diagram.png](./images/sequence-diagram.png)
