@@ -2,4 +2,4 @@
 
 ## Resources:
 - [Course - Frontend at Scale](https://frontendatscale.com/courses/frontend-architecture)
-- [Course repo](https://github.com/Charca/frontend-architecture-workshop)# frontend-arch-fundamentals
+- [Course repo](https://github.com/Charca/frontend-architecture-workshop)
