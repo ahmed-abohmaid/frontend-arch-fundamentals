@@ -12,9 +12,11 @@
 
 ## 4. High Level Design
 
+EX:
+
 ### Container Diagram
 
-![Container Diagram](../assets/container-diagram.png)
+![Container Diagram](../../understanding/images/container-diagram-draft.png)
 
 ### Architectural Style
 
